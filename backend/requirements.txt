@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-multipart==0.0.6
+transformers==4.35.0
+torch==2.2.0
+pydantic==1.10.9
+aiofiles==23.1.0
+requests==2.31.0
+python-jose==3.3.0

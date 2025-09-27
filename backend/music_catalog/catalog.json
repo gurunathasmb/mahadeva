@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Yaman",
+    "mood_tags": ["calm", "peaceful", "devotional"],
+    "time_of_day": "evening",
+    "snippet": "/assets/music/yaman_snippet.mp3",
+    "notes": "Suggested for relaxation and devotional focus."
+  },
+  {
+    "id": "2",
+    "name": "Bhairavi",
+    "mood_tags": ["melancholic", "soothing"],
+    "time_of_day": "morning",
+    "snippet": "/assets/music/bhairavi_snippet.mp3",
+    "notes": "Gentle raga for lowering anxious arousal."
+  }
+]
